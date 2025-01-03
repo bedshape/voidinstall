@@ -1,0 +1,95 @@
+16:23:48 [info] [LOG SESSION] ---------- START ----------
+16:23:48 [info] [PluginFactory] loading plugins
+16:23:48 [info] [PluginFactory] loaded: /usr/lib/musikcube/plugins/libmpris.so
+16:23:48 [info] [PluginFactory] loaded: /usr/lib/musikcube/plugins/libserver.so
+16:23:48 [info] [PluginFactory] loaded: /usr/lib/musikcube/plugins/libsupereqdsp.so
+16:23:48 [info] [PluginFactory] loaded: /usr/lib/musikcube/plugins/libnullout.so
+16:23:48 [info] [PluginFactory] loaded: /usr/lib/musikcube/plugins/libtaglibreader.so
+16:23:48 [info] [PluginFactory] loaded: /usr/lib/musikcube/plugins/libhttpdatastream.so
+16:23:49 [info] [PluginFactory] loaded: /usr/lib/musikcube/plugins/libstockencoders.so
+16:23:49 [info] [PluginFactory] loaded: /usr/lib/musikcube/plugins/libpulseout.so
+16:23:49 [info] [PluginFactory] loaded: /usr/lib/musikcube/plugins/libffmpegdecoder.so
+16:23:49 [info] [Indexer] scan completed successfully
+16:23:49 [info] [Indexer] cleanup 1/2
+16:23:49 [info] [Indexer] cleanup 2/2
+16:23:49 [info] [Indexer] optimizing
+16:23:49 [info] [Indexer] done!
+16:23:49 [info] [Indexer] scan completed successfully
+16:23:49 [info] [Indexer] cleanup 1/2
+16:23:49 [info] [Indexer] cleanup 2/2
+16:23:49 [info] [Indexer] optimizing
+16:23:49 [info] [Indexer] done!
+16:23:49 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' enqueued
+16:23:49 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' running
+16:23:49 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' finished with status=4
+16:23:52 [info] [Indexer] scanning /home/evie/music/
+16:23:52 [info] [Indexer] scan completed successfully
+16:23:52 [info] [Indexer] cleanup 1/2
+16:23:52 [info] [Indexer] cleanup 2/2
+16:23:52 [info] [Indexer] optimizing
+16:23:52 [info] [Indexer] done!
+16:23:58 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+16:23:58 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+16:23:58 [info] [LocalLibrary] query 'CategoryListQuery' running
+16:23:58 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=5
+16:23:58 [info] [LocalLibrary] query 'CategoryListQuery' running
+16:23:58 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+16:23:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+16:23:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+16:23:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+16:23:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+16:23:58 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+16:23:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+16:23:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+16:23:58 [info] [LocalLibrary] query 'CategoryListQuery' running
+16:23:58 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+16:23:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+16:23:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+16:23:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+16:23:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+16:23:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+16:23:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+16:23:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+16:23:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+16:23:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+16:23:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+16:23:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+16:23:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+16:23:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+16:23:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+16:23:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+16:24:00 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+16:24:00 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+16:24:00 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+16:24:00 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+16:24:00 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+16:24:00 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+16:24:01 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
+16:24:01 [info] [LocalLibrary] query 'TrackMetadataQuery' running
+16:24:01 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
+16:24:01 [info] [GaplessTransport] starting track at /home/evie/music/Whole Lotta Red [1512-1825kbits, 44.1kHz]/1. Playboi Carti - Rockstar Made.flac
+16:24:01 [info] [Player] new instance created
+16:24:01 [info] [GaplessTransport] stop
+16:24:01 [info] [Stream] opening /home/evie/music/Whole Lotta Red [1512-1825kbits, 44.1kHz]/1. Playboi Carti - Rockstar Made.flac
+16:24:01 [info] [LocalFileStream] opening file: /home/evie/music/Whole Lotta Red [1512-1825kbits, 44.1kHz]/1. Playboi Carti - Rockstar Made.flac
+16:24:01 [info] [ffmpegdecoder] parsing data stream...
+16:24:01 [info] [ffmpegdecoder] found audio stream!
+16:24:01 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+16:24:01 [info] [Streams] found a decoder for /home/evie/music/Whole Lotta Red [1512-1825kbits, 44.1kHz]/1. Playboi Carti - Rockstar Made.flac
+16:24:01 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:24:01 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
+16:24:01 [info] [LocalLibrary] query 'TrackMetadataQuery' running
+16:24:01 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
+16:24:01 [info] [Player] new instance created
+16:24:01 [info] [Stream] opening /home/evie/music/Whole Lotta Red [1512-1825kbits, 44.1kHz]/2. Playboi Carti - Go2DaMoon.flac
+16:24:01 [info] [LocalFileStream] opening file: /home/evie/music/Whole Lotta Red [1512-1825kbits, 44.1kHz]/2. Playboi Carti - Go2DaMoon.flac
+16:24:01 [info] [ffmpegdecoder] parsing data stream...
+16:24:01 [info] [ffmpegdecoder] found audio stream!
+16:24:01 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+16:24:01 [info] [Streams] found a decoder for /home/evie/music/Whole Lotta Red [1512-1825kbits, 44.1kHz]/2. Playboi Carti - Go2DaMoon.flac
+16:24:01 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:24:03 [info] [GaplessTransport] pause
+16:24:04 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' enqueued
+16:24:04 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' running
+16:24:04 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' finished with status=4
+16:24:04 [info] [GaplessTransport] stop
